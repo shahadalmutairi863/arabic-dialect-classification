@@ -75,3 +75,22 @@ arabic-dialect-classification/
 ├── images/
 ├── src/
 └── requirements.txt
+Key Findings
+MARBERT achieved the best overall performance.
+AraBERT showed strong results, especially on more formal Arabic text.
+Logistic Regression was a useful baseline and improved minority-class recall when class balancing was applied.
+Class imbalance was one of the main challenges in this task.
+Future Work
+Data augmentation for low-resource dialects
+Audio-text multimodal classification
+Hyperparameter tuning
+Cross-validation
+Ensemble learning
+Explainability using SHAP or LIME
+Authors
+Ruba Alfageeh
+Shahad Almutairi
+Tala Melaih
+Safaa Alsufyani
+Supervisor
+Dr. Roshayu Mohammed
