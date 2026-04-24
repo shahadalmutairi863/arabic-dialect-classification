@@ -82,25 +82,23 @@ Python | Google Colab | Scikit‑learn | PyTorch | Hugging F
 ---
 
 ## 🧩 My Contribution – Shahad Almutairi
-
-Within the group project, my main role focused on **data processing, analysis, and baseline model development**.  
-I contributed to both the technical implementation and the analytical evaluation of model performance.
+I played a key role in the project by focusing on data exploration, preprocessing, and preparing the foundation for both text and audio modeling.
 
 ### Responsibilities
-- **Data Preprocessing & Cleaning:**  
-  Designed and implemented the Arabic text preprocessing pipeline (diacritics and punctuation removal, normalization, stop‑word filtering, and tokenization) using Python & NLTK.
+- **Exploring New Data Modalities:**  
+  While our coursework focused solely on text datasets and their preprocessing methods, I proposed expanding the project toward an audio dataset. Since we had not studied audio modeling before, I independently researched and learned the specialized models used for audio processing. I then assigned each team member a specific audio model to work on, ensuring clear task distribution.
 
-- **Exploratory Data Analysis (EDA):**  
-  Performed data visualization using **Matplotlib** and **Seaborn** to analyze dialect distribution, detect imbalance, and highlight frequent linguistic patterns.
+- **Dataset Understanding & EDA:**  
+  Conducted an in‑depth exploratory data analysis to understand the dataset, identify class imbalance, visualize key patterns, and clarify the challenges that would influence model performance.
 
-- **Model Building:**  
-  Developed and fine‑tuned the **Logistic Regression baseline** with **TF‑IDF** features, applied class‑weight balancing, and evaluated model accuracy, precision, recall, and F1‑score.
+- **Data Preprocessing & Cleaning**  
+  Designed and implemented the full preprocessing pipeline for the dataset, including cleaning, normalization, noise removal, feature preparation, and other steps required before feeding data into any model.
 
-- **Documentation & Results Analysis:**  
-  Authored portions of the final report, including methodology and results sections, and created performance charts comparing AraBERT, MARBERT, and Logistic Regression.
-
+- **Documentation & Team Coordination:**  
+  Wrote parts of the final report, including the methodology and results sections. I also documented the preprocessing steps and coordinated task distribution among team members.
+Impact
 ### Impact
-My contributions helped ensure clean, high‑quality text data and provided a strong quantitative baseline that guided deeper model experiments with AraBERT and MARBERT.
+My contributions helped introduce a new direction to the project by exploring audio datasets and their dedicated models—an area not covered in our coursework. Additionally, my EDA and preprocessing work provided a solid, clean foundation for all models and guided the deeper experiments with transformer‑based approaches.
 
 ---
 
