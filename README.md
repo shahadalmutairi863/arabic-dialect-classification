@@ -123,7 +123,6 @@ arabic-dialect-classification/
 │   └── LogisticRegression.ipynb
 ├── reports/
 │   └── final_report.pdf
-└── images/
 ```
 
 ---
