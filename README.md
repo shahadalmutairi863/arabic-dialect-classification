@@ -10,8 +10,8 @@ The project focuses on classifying **Arabic dialects** using a combination of **
 ## 👥 Team Members
 | Name | Student ID |
 |------|-------------|
-| **Shahad Almutairi** | 2316095 |
-| **Ruba Alfageeh** | 2315366 |
+| **Shahad Almutairi** | 2315366 |
+| **Ruba Alfageeh** | 2316095 |
 | **Tala Melaih** | 2317013 |
 | **Safaa Alsufyani** | 2315828 |
 
