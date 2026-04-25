@@ -124,7 +124,13 @@ arabic-dialect-classification/
 ├── reports/
 │   └── final_report.pdf
 ```
+---
 
+📓 Jupyter Notebook  
+📒 [View Notebook](notebooks/preprocessing__and_AraBERT..ipynb)
+
+📄 Final Report  
+📎 [View Report](reports/final_report%20(1).pdf)
 ---
 
 ## 🏆 Acknowledgment
